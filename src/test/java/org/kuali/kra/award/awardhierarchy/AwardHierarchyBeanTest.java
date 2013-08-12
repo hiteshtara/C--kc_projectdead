@@ -35,7 +35,7 @@ import org.kuali.rice.krad.service.BusinessObjectService;
 import org.kuali.rice.krad.service.DocumentService;
 
 public class AwardHierarchyBeanTest {
-    
+    //this is change
     private static final String ROOT_AWARD_NUMBER = "100001-00001";
     private static final String UNKNOWN_TARGET_NODE_AWARD_NUMBER = "123456-78901";
     
