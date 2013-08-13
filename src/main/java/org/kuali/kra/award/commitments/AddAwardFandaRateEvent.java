@@ -23,6 +23,7 @@ import org.kuali.rice.krad.rules.rule.BusinessRule;
  * 
  * This class represents the AddAwardFandaRateEvent
  */
+ //this is test
 public class AddAwardFandaRateEvent extends AwardFandaRateEvent{
     
     /**
